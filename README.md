@@ -6,11 +6,14 @@
 - 📦 I’m looking to collaborate in open source project, especially using Codeigniter and Laravel
 
 ### Languages and Tools:
-
-<a href="h" target="_blank"><img alt="JS" src="https://img.shields.io/badge/-js-DFA01C?style=flat-square&logo=Javascript&logoColor=000000"></a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <br />
-<br />
+
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 #### Connect with me 
 <a href="https://www.instagram.com/_syafiqx/" target="_blank">
